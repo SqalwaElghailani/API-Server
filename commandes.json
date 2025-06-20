@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "productIds": [
+      1,
+      4
+    ],
+    "adresse": "azergh",
+    "telephone": "2345432",
+    "date": "2025-06-17T17:20:00.479Z",
+    "status": "en attente",
+    "productDetails": [
+      {
+        "id": 1,
+        "name": "Attack on Titan",
+        "price": 900,
+        "quantity": 1
+      },
+      {
+        "id": 4,
+        "name": "Death Note",
+        "price": 910,
+        "quantity": 2
+      }
+    ],
+    "totalPrice": 2720
+  },
+  {
+    "id": 2,
+    "userId": 1,
+    "productIds": [
+      1,
+      4,
+      6
+    ],
+    "adresse": "azergh",
+    "telephone": "2345432",
+    "date": "2025-06-17T17:36:06.039Z",
+    "status": "en attente",
+    "productDetails": [
+      {
+        "id": 1,
+        "name": "Attack on Titan",
+        "price": 900,
+        "quantity": 2
+      },
+      {
+        "id": 4,
+        "name": "Death Note",
+        "price": 910,
+        "quantity": 1
+      },
+      {
+        "id": 6,
+        "name": "Jujutsu Kaisen",
+        "price": 850,
+        "quantity": 1
+      }
+    ],
+    "totalPrice": 3560
+  },
+  {
+    "id": 3,
+    "userId": 1,
+    "productIds": [
+      1,
+      4,
+      6
+    ],
+    "adresse": "azergh",
+    "telephone": "2345432",
+    "date": "2025-06-17T17:37:58.357Z",
+    "status": "en attente",
+    "productDetails": [
+      {
+        "id": 1,
+        "name": "Attack on Titan",
+        "price": 900,
+        "quantity": 2
+      },
+      {
+        "id": 4,
+        "name": "Death Note",
+        "price": 910,
+        "quantity": 1
+      },
+      {
+        "id": 6,
+        "name": "Jujutsu Kaisen",
+        "price": 850,
+        "quantity": 1
+      }
+    ],
+    "totalPrice": 3560
+  },
+  {
+    "id": 4,
+    "userId": 1,
+    "productIds": [
+      1,
+      4,
+      6
+    ],
+    "adresse": "azergh",
+    "telephone": "2345432",
+    "date": "2025-06-17T17:38:36.491Z",
+    "status": "en attente",
+    "productDetails": [
+      {
+        "id": 1,
+        "name": "Attack on Titan",
+        "price": 900,
+        "quantity": 2
+      },
+      {
+        "id": 4,
+        "name": "Death Note",
+        "price": 910,
+        "quantity": 1
+      },
+      {
+        "id": 6,
+        "name": "Jujutsu Kaisen",
+        "price": 850,
+        "quantity": 1
+      }
+    ],
+    "totalPrice": 3560
+  },
+  {
+    "id": 5,
+    "userId": 1,
+    "productIds": [
+      1,
+      4
+    ],
+    "adresse": "azergh",
+    "telephone": "2345432",
+    "date": "2025-06-17T17:38:57.485Z",
+    "status": "en attente",
+    "productDetails": [
+      {
+        "id": 1,
+        "name": "Attack on Titan",
+        "price": 900,
+        "quantity": 139
+      },
+      {
+        "id": 4,
+        "name": "Death Note",
+        "price": 910,
+        "quantity": 108
+      }
+    ],
+    "totalPrice": 223380
+  },
+  {
+    "id": 6,
+    "userId": 1,
+    "productIds": [
+      1,
+      4
+    ],
+    "adresse": "azergh",
+    "telephone": "2345432",
+    "date": "2025-06-17T17:39:31.585Z",
+    "status": "en attente",
+    "productDetails": [
+      {
+        "id": 1,
+        "name": "Attack on Titan",
+        "price": 900,
+        "quantity": 1
+      },
+      {
+        "id": 4,
+        "name": "Death Note",
+        "price": 910,
+        "quantity": 1
+      }
+    ],
+    "totalPrice": 1810
+  },
+  {
+    "id": 7,
+    "userId": 1,
+    "productIds": [
+      1,
+      4
+    ],
+    "adresse": "azergh",
+    "telephone": "2345432",
+    "date": "2025-06-17T17:40:09.371Z",
+    "status": "en attente",
+    "productDetails": [
+      {
+        "id": 1,
+        "name": "Attack on Titan",
+        "price": 900,
+        "quantity": 1
+      },
+      {
+        "id": 4,
+        "name": "Death Note",
+        "price": 910,
+        "quantity": 1
+      }
+    ],
+    "totalPrice": 1810
+  },
+  {
+    "id": 8,
+    "userId": 1,
+    "productIds": [
+      1,
+      4
+    ],
+    "adresse": "azergh",
+    "telephone": "2345432",
+    "date": "2025-06-17T17:42:20.020Z",
+    "status": "en attente",
+    "productDetails": [
+      {
+        "id": 1,
+        "name": "Attack on Titan",
+        "price": 900,
+        "quantity": 1
+      },
+      {
+        "id": 4,
+        "name": "Death Note",
+        "price": 910,
+        "quantity": 1
+      }
+    ],
+    "totalPrice": 1810
+  },
+  {
+    "id": 9,
+    "userId": 1,
+    "productIds": [
+      1,
+      4
+    ],
+    "adresse": "azergh",
+    "telephone": "2345432",
+    "date": "2025-06-17T17:42:33.707Z",
+    "status": "en attente",
+    "productDetails": [
+      {
+        "id": 1,
+        "name": "Attack on Titan",
+        "price": 900,
+        "quantity": 139
+      },
+      {
+        "id": 4,
+        "name": "Death Note",
+        "price": 910,
+        "quantity": 108
+      }
+    ],
+    "totalPrice": 223380
+  }
+]

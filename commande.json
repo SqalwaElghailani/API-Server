@@ -1,0 +1,123 @@
+[
+  {
+    "id": 2,
+    "userId": 1,
+    "productIds": [
+      1,
+      4
+    ],
+    "adresse": "azergh",
+    "telephone": "2345432",
+    "date": "2025-06-17T17:43:57.541Z",
+    "status": "expédiée",
+    "productDetails": [
+      {
+        "id": 1,
+        "name": "Attack on Titan",
+        "price": 900,
+        "quantity": 1
+      },
+      {
+        "id": 4,
+        "name": "Death Note",
+        "price": 910,
+        "quantity": 2
+      }
+    ],
+    "totalPrice": 2720
+  },
+  {
+    "id": 3,
+    "userId": 1,
+    "productIds": [
+      3
+    ],
+    "adresse": "Larache",
+    "telephone": "0636652162",
+    "date": "2025-06-19T20:50:55.973Z",
+    "status": "en attente",
+    "productDetails": [
+      {
+        "id": 3,
+        "name": "One Piece",
+        "price": 920,
+        "quantity": 1
+      }
+    ],
+    "totalPrice": 920
+  },
+  {
+    "id": 4,
+    "userId": 1,
+    "productIds": [
+      4,
+      6
+    ],
+    "adresse": "tenger",
+    "telephone": "0636652163",
+    "date": "2025-06-19T21:27:09.272Z",
+    "status": "en attente",
+    "productDetails": [
+      {
+        "id": 4,
+        "name": "Death Note",
+        "price": 910,
+        "quantity": 1
+      },
+      {
+        "id": 6,
+        "name": "Jujutsu Kaisen",
+        "price": 850,
+        "quantity": 2
+      }
+    ],
+    "totalPrice": 2610
+  },
+  {
+    "id": 5,
+    "userId": 2,
+    "productIds": [
+      3
+    ],
+    "adresse": "Larache",
+    "telephone": "2345432",
+    "date": "2025-06-19T22:29:07.177Z",
+    "status": "en attente",
+    "productDetails": [
+      {
+        "id": 3,
+        "name": "One Piece",
+        "price": 920,
+        "quantity": 1100
+      }
+    ],
+    "totalPrice": 1012000
+  },
+  {
+    "id": 6,
+    "userId": 1,
+    "productIds": [
+      4,
+      6
+    ],
+    "adresse": "Larache",
+    "telephone": "0636652163",
+    "date": "2025-06-20T07:05:00.149Z",
+    "status": "en attente",
+    "productDetails": [
+      {
+        "id": 4,
+        "name": "Death Note",
+        "price": 910,
+        "quantity": 1
+      },
+      {
+        "id": 6,
+        "name": "Jujutsu Kaisen",
+        "price": 850,
+        "quantity": 4
+      }
+    ],
+    "totalPrice": 4310
+  }
+]
