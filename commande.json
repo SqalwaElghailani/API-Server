@@ -119,5 +119,59 @@
       }
     ],
     "totalPrice": 4310
+  },
+  {
+    "id": 7,
+    "userId": 6,
+    "productIds": [
+      4,
+      7
+    ],
+    "adresse": "Larache",
+    "telephone": "0636652162",
+    "date": "2025-06-20T20:30:22.246Z",
+    "status": "en attente",
+    "productDetails": [
+      {
+        "id": 4,
+        "name": "Death Note",
+        "price": 910,
+        "quantity": 2
+      },
+      {
+        "id": 7,
+        "name": "Bleach",
+        "price": 830,
+        "quantity": 1
+      }
+    ],
+    "totalPrice": 2650
+  },
+  {
+    "id": 8,
+    "userId": 7,
+    "productIds": [
+      4,
+      7
+    ],
+    "adresse": "Larache",
+    "telephone": "0636652162",
+    "date": "2025-06-20T20:57:51.810Z",
+    "status": "en attente",
+    "productDetails": [
+      {
+        "id": 4,
+        "name": "Death Note",
+        "price": 910,
+        "quantity": 2
+      },
+      {
+        "id": 7,
+        "name": "Bleach",
+        "price": 830,
+        "quantity": 1
+      }
+    ],
+    "totalPrice": 2650
   }
 ]

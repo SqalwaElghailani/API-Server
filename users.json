@@ -33,5 +33,19 @@
     "lastName": "test",
     "email": "test@email.com",
     "password": "1111"
+  },
+  {
+    "id": 6,
+    "firstName": "test1",
+    "lastName": "test1",
+    "email": "test1@email.com",
+    "password": "1111"
+  },
+  {
+    "id": 7,
+    "firstName": "test2",
+    "lastName": "test2",
+    "email": "test2@email.com",
+    "password": "1111"
   }
 ]
